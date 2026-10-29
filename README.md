@@ -143,6 +143,3 @@ Alice Smith,0987654321,alice@example.com
 
 ---
 
-## 📄 License
-
-Add your license here (e.g., MIT).
